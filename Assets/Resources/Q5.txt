@@ -1,0 +1,8 @@
+[show]
+加油，這是最後一關了～[w]
+第五題，請聽題（只會播一次）[w]
+[audio,first,第五關,false,1,audioTransit_1_2000]
+[w]
+按照剛剛聽到的聲音順序，按下開燈或關燈的按鈕吧！[w]
+[hide]
+[load_scene,level-5]

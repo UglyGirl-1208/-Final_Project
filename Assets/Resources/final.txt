@@ -1,0 +1,8 @@
+[show]
+[audio,cheers,歡呼,false,0,audioTransit_1_2000]
+[audio,happy,happy,true,0,audioTransit_1_2000]
+恭喜你完成全部的關卡[w]
+感謝遊玩，掰掰～[w]
+[remove,cheers]
+[remove,happy]
+[hide]

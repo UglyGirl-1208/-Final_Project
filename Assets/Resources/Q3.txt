@@ -1,0 +1,7 @@
+[show]
+第三題，請聽題（只會播一次）[w]
+[audio,first,第三關,false,1,audioTransit_1_2000]
+[w]
+按照剛剛聽到的聲音順序，按下開燈或關燈的按鈕吧！[w]
+[hide]
+[load_scene,level-3]
